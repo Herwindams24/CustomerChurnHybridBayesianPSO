@@ -1,8 +1,5 @@
 # Customer Churn Prediction with a Hybrid Bayesian–PSO (HBP) Framework
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)
-![Keras](https://img.shields.io/badge/Keras-3-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A two-stage hyperparameter optimization framework that couples **Particle Swarm Optimization (PSO)** with **Bayesian Optimization (BO-TPE)** to tune deep neural networks (DNNs) for **customer churn prediction on class-imbalanced datasets**. The repository accompanies the manuscript currently under review and contains the full experimental notebook needed to reproduce the results.
