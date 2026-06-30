@@ -1,0 +1,14 @@
+2026-06-29 17:59:13,002 - tensorflow - WARNING - From d:\Anaconda\envs\metpenato2\Lib\site-packages\keras\src\backend\tensorflow\core.py:233: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2026-06-29 17:59:13,346 - __main__ - INFO - 
+============================================================
+2026-06-29 17:59:13,348 - __main__ - INFO - DATASET: K04 — Telco Customer Churn (Telekomunikasi)
+2026-06-29 17:59:13,351 - __main__ - INFO - ============================================================
+2026-06-29 17:59:13,377 - __main__ - INFO - [K04] Memuat: Telco Customer Churn (Telekomunikasi)
+2026-06-29 17:59:13,401 - __main__ - INFO - [K04] Ukuran awal: (7043, 21)
+2026-06-29 17:59:13,407 - __main__ - INFO - [K04] TotalCharges: 11 nilai kosong diisi median=1397.47
+2026-06-29 17:59:13,469 - __main__ - INFO - [K04] Ukuran akhir: (7043, 45), IR=2.77
+2026-06-29 17:59:13,472 - __main__ - INFO - 
+--- Kondisi C1 ---
+2026-06-29 17:59:13,473 - __main__ - INFO -   [C1] Baseline manual — konfigurasi Gkonis 2025
+2026-06-29 18:00:54,061 - __main__ - INFO -   [C1] Evaluasi akhir 10-fold CV...
