@@ -38,10 +38,10 @@ Four conditions are compared under an identical evaluation protocol:
 
 ### Datasets
 
-| ID | Domain | Approx. size |
-|----|--------|--------------|
-| **K03** | Banking | ~10,000 samples |
-| **K04** | Telecommunications | ~7,000 samples |
+| ID | Domain | Approx. size | Source |
+|----|--------|---------------------|
+| **K03** | Banking | ~10,000 samples | https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling |
+| **K04** | Telecommunications | ~7,000 samples | https://www.kaggle.com/datasets/blastchar/telco-customer-churn |
 
 ### Statistical Analysis
 
